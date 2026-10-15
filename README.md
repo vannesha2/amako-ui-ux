@@ -45,7 +45,7 @@ Desain antarmuka AMAKO dibuat menggunakan Figma dengan tampilan yang sederhana d
 ![Message Screen](./message.png)
 
 #### 5. Profile and QR Code
-![Profile Screen](./profile.png)
+![Profile Screen](./profile1.png)
 
 #### 6. Bus Schedule
 ![Schedule Screen](./jadwal.png)
